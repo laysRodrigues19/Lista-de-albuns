@@ -1,2 +1,2 @@
 
-![Foto](assets/Captura.PNG)
+![Foto](assets/Capturar.PNG)
